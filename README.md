@@ -1,8 +1,7 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seif-S&show_icons=true&theme=midnight-purple&layout=compact)
-## hello
 ![0bf2854f6e017a49d461c719402425dc](https://github.com/user-attachments/assets/b329a740-a602-4bf3-8b8a-6ed0ead6a607)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seif-S&show_icons=true&theme=midnight-purple&rank_icon=github&include_all_commits=true&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seif-S&show_icons=true&theme=midnight-purple&layout=compact)
 <!--
 **Seif-S/Seif-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
