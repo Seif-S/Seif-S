@@ -1,5 +1,5 @@
 ## Hi there 👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seif-S&show_icons=true&theme=codeSTACKr)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seif-S&show_icons=true&theme=midnight-purple)
 <!--
 **Seif-S/Seif-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
