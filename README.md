@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/xNzWXduun3uwTyN56I" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/retro-8bit-16bit-xNzWXduun3uwTyN56I">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/xNzWXduun3uwTyN56I" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seif-S&show_icons=true&theme=midnight-purple&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seif-S&show_icons=true&theme=midnight-purple&rank_icon=github&include_all_commits=true&hide=contribs)
 <!--
