@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Seif-S&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="170" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Seif-S&hide_title=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Seif-S&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Seif-S&hide_title=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph"  />
 </div>
 
 ###
