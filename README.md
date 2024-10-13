@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Seif-S&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Seif-S&hide_title=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Seif-S&hide_title=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&order=1&hide=contribs" alt="stats graph"  />
 </div>
 
 ###
@@ -34,3 +34,11 @@
 <img src="https://raw.githubusercontent.com/Seif-S/Seif-S/output/snake.svg" alt="Snake animation" />
 
 ###
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seif-S&show_icons=true&theme=midnight-purple&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seif-S&show_icons=true&theme=midnight-purple&rank_icon=github&include_all_commits=true&hide=contribs)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Seif-S/Seif-S/blob/output/snake.svg" />
+</picture>
