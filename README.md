@@ -5,6 +5,7 @@
 <details>
 <summary>Skills</summary>
   <br>
+  
   ![Learning](https://skillicons.dev/icons?i=php,py,cs,dotnet,flask,mysql,html,css,js)](https://skillicons.dev)
 </details>
 <img src="https://raw.githubusercontent.com/Seif-S/Seif-S/output/snake.svg" alt="Snake animation" />
